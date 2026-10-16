@@ -37,6 +37,7 @@ body {
     gap: 20px;
 
     background-color: var(--dark);
+    border-bottom: 1px solid #b7c9a8;
 }
 
 .nav-logo, .nav-menu {
