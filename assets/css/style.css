@@ -15,7 +15,17 @@ html {
 }
 
 body {
-  font-family: "Libre Caslon Condensed", serif;
+  font-family: "Roboto", sans-serif;
+
+  background: radial-gradient(
+    ellipse at center,
+    #28563F 0%,
+    #174C37 40%,
+    #0B291E 100%
+  );
+
+  min-height: 100vh;
+  background-attachment: fixed;
 }
 
 .primary-light {
